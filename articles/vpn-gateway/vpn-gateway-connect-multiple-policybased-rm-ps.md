@@ -34,7 +34,7 @@ The following diagrams highlight the two models:
 ### Policy-based VPN example
 ![policybased](./media/vpn-gateway-connect-multiple-policybased-rm-ps/policybasedmultisite.png)
 
-### Roite-based VPN example
+### Route-based VPN example
 ![routebased](./media/vpn-gateway-connect-multiple-policybased-rm-ps/routebasedmultisite.png)
 
 ### Azure support for policy-based VPN
